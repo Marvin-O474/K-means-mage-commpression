@@ -19,7 +19,7 @@ In this repository there are four folders
 - [input_img](https://github.com/Marvin-O474/K-means-mage-commpression/tree/master/input_img): The algorithm collects the input image to be compressed form this folder
 - [iterations](https://github.com/Marvin-O474/K-means-mage-commpression/tree/master/iterations): This is where each frame of the animated gif for the compression process is stored.
 
-The main file for running the image compression algorithm using K-means is Image Compression.ipynb. It was written with Jupyter notebook and explains in detail the algorithm, how it works and how to modify the code to work for your image. The algorithm can handle jpg, png, and gif image formats.
+The main file for running the image compression algorithm using K-means is [Image Compression.ipynb](https://github.com/Marvin-O474/image_compression_using_kmeans/blob/master/Image%20Compression.ipynb). It was written with Jupyter notebook and explains in detail the algorithm, how it works and how to modify the code to work for your image. The algorithm can handle jpg, png, and gif image formats.
 
 ### Visulizations
 
